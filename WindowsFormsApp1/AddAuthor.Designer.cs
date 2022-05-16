@@ -120,12 +120,6 @@ namespace WindowsFormsApp1
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
-            "кандидат наук",
-            "доктор наук",
-            "академик",
-            "профессор",
-            "старший научный сотрудник"});
             this.comboBox1.Location = new System.Drawing.Point(12, 280);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(250, 24);
@@ -144,12 +138,6 @@ namespace WindowsFormsApp1
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
-            "Тюменский Государственный Университет",
-            "Тюменский Индустриальный Университет",
-            "Горный институт Кольского научного центра",
-            "Южно-Уральский Государственный Университет",
-            "Всероссийский научно-исследовательский институт авиационных материалов"});
             this.comboBox2.Location = new System.Drawing.Point(12, 220);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(250, 24);
